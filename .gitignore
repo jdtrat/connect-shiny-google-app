@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+connect-shiny-google-app/.secrets/
+connect-shiny-google-app/rsconnect/
